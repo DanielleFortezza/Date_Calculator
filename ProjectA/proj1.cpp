@@ -2,10 +2,8 @@
 #include "proj1.h"
 using namespace std;
 
-// Default constructor
 date2019::date2019()
 {
-	// sets the values of day and month to 1 1
 	d = 1;
 	m = 1;
 	total_days = 1;
